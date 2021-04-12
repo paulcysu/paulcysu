@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulcysu
 - 👀 I’m interested in video games, digital drawing, and fitness.
-- 🌱 I’m currently learning python for web development and maybe drip into AI, Machine Learning, and Game development.
+- 🌱 I’m currently learning python for web development and maybe dip into AI, Machine Learning, and Game development.
 - 💞️ I’m looking to collaborate anything interesting
 - 📫 How to reach me paul.su.developer@gmail.com
 
